@@ -4,6 +4,6 @@ automobile
 river & sea
 pipeline
 air
-bycicles
+bicycles
 scootters
 hooverboards
